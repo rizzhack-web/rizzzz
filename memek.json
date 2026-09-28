@@ -1,0 +1,12 @@
+
+  {
+  "baseUrl": "http://dikzpanel.r-cloud.my.id:3001",
+  "wssUrl": "wss://dikzpanel.r-cloud.my.id:3001",
+  "wsUrl": "wss://dikzpanel.r-cloud.my.id:3001",
+  "ratBaseUrl": "http://dikzpanel.r-cloud.my.id:3001",
+  "adminApiBase": "http://dikzpanel.r-cloud.my.id:25567",
+  "siputzxApi": "https://api.siputzx.my.id",
+  "sankavollereiApi": "https://www.sankavollerei.com",
+  "nglApi": "https://ngl.link"
+  }
+]
