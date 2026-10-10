@@ -1,10 +1,10 @@
 [
   {
-  "baseUrl": "http://grace.razix.biz.id:2000",
-  "wssUrl": "wss://grace.razix.biz.id:2000",
-  "wsUrl": "ws://grace.razix.biz.id:2000",
+  "baseUrl": "http://grace.razix.biz.id:2001",
+  "wssUrl": "wss://grace.razix.biz.id:2001",
+  "wsUrl": "ws://grace.razix.biz.id:2001",
   "ratBaseUrl": "http://grace.razix.biz.id:2000",
-  "adminApiBase": "http://grace.razix.biz.id:2000",
+  "adminApiBase": "http://grace.razix.biz.id:2001",
   "siputzxApi": "https://api.siputzx.my.id",
   "sankavollereiApi": "https://www.sankavollerei.com",
   "nglApi": "https://ngl.link"
