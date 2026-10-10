@@ -1,10 +1,10 @@
 [
   {
-  "baseUrl": "http://dikzclaud1.pteroqdactyl.my.id:3197",
-  "wssUrl": "wss://dikzclaud1.pteroqdactyl.my.id:3197",
-  "wsUrl": "ws://dikzclaud1.pteroqdactyl.my.id:3197",
-  "ratBaseUrl": "http://dikzclaud1.pteroqdactyl.my.id:2002",
-  "adminApiBase": "http://dikzclaud1.pteroqdactyl.my.id:3197",
+  "baseUrl": "http://grace.razix.biz.id:2000",
+  "wssUrl": "wss://grace.razix.biz.id:2000",
+  "wsUrl": "ws://grace.razix.biz.id:2000",
+  "ratBaseUrl": "http://grace.razix.biz.id:2000",
+  "adminApiBase": "http://grace.razix.biz.id:2000",
   "siputzxApi": "https://api.siputzx.my.id",
   "sankavollereiApi": "https://www.sankavollerei.com",
   "nglApi": "https://ngl.link"
